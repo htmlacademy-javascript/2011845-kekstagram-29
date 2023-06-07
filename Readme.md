@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Алина Тубольцева](https://up.htmlacademy.ru/javascript/29/user/2011845).
-* Наставник: `Неизвестно`.
+- Студент: [Алина Тубольцева](https://up.htmlacademy.ru/javascript/29/user/2011845).
+- Студент: [Павел Позняк](https://htmlacademy.ru/profile/id907403).
 
 ---
 
