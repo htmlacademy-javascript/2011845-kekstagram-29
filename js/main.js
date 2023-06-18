@@ -64,11 +64,9 @@ const createPost = (index) => ({
   comments: getComments()
 });
 
-//const getPosts = () => Array.from({ length: POSTS_COUNT }, createPost);
 
 const getPosts = () =>
   Array.from({ length: POSTS_COUNT }, (_, index) =>
     createPost(index + 1)
   );
 
-getPosts();
