@@ -1,1 +1,3 @@
-import { createPosts } from './data.js';
+import { renderPosts } from './render-posts.js';
+
+renderPosts();
