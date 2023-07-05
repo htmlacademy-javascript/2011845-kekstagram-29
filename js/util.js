@@ -12,6 +12,4 @@ const shuffleArray = (elements) => {
   return elements;
 };
 
-const isEscapeKey = (event) => event.key === 'Escape';
-
-export { getRandomNumber, getRandomArrayElement, shuffleArray, isEscapeKey };
+export { getRandomNumber, getRandomArrayElement, shuffleArray };
